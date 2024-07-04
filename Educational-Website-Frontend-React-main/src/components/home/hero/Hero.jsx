@@ -9,8 +9,8 @@ const Hero = () => {
         <div className="container">
           <div className="row">
             <Heading
-              subtitle="WELCOME TO Eduscope"
-              title="Best Online Education Platform."
+              subtitle="WELCOME TO IKRANDAY"
+              title="An Elevated Learning Experience for everyone"
             />
             <p>
               Start, switch, or advance your career with more than 5,000
@@ -22,7 +22,7 @@ const Hero = () => {
                 GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
               </button>
               <button>
-                VIEW COURSE <i className="fa fa-long-arrow-alt-right"></i>
+                VIEW COURSES <i className="fa fa-long-arrow-alt-right"></i>
               </button>
             </div>
           </div>
