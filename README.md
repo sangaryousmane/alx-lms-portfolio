@@ -1,5 +1,5 @@
-# IKRANDAY LEARNING MANAGEMENT SYSTEM
-IKRANDAY is a project born at ALX for making online education accessible to everyone
+# IKRANDAY: A LEARNING MANAGEMENT SYSTEM FOR Everyone
+## IKRANDAY is a project born at ALX for making online education accessible to everyone
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm start
 ## Usage
 
 ```node
-git clone [repository](https://github.com/sangaryousmane/alx-lms-portfolio.git)
+ [git clone https://github.com/sangaryousmane/alx-lms-portfolio.git] (https://github.com/sangaryousmane/alx-lms-portfolio.git)
 ```
 
 ## Contributing
