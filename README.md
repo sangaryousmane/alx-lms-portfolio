@@ -1,19 +1,17 @@
 # IKRANDAY: A LEARNING MANAGEMENT SYSTEM FOR EVERYONE
-` IKRANDAY is a project born at ALX for making online education accessible to everyone
+## IKRANDAY is a project born at ALX for making online education accessible to everyone
 
 
-# Files Manager
+# Project Objective
 
-This project is a compilation of back-end concepts: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
+This project is a full-stack application that combines react, tailwind, css and shadcdn in the frontend and Prisma, Nodejs, and MYSQL in backend. 
 
-The objective is to build a simple platform to upload and view files with:
+The aim is to build a fully functional web-application for online learning management system.
 
-- User authentication via a token
-- Listing of all files
-- Uploading a new file
-- Changing permissions of a file
-- Viewing a file
-- Generating thumbnails for images
+- User authentication and Authorization via a clerk
+- Teachers can upload their courses and they can also manage their students
+- Clients can search courses and make purchase, enrol and then get certificated upon completion
+- Admin can manage everything else in the application
 
 ## Core technologies
 
@@ -25,10 +23,6 @@ The objective is to build a simple platform to upload and view files with:
 
 Nodejs is use for the runtime environment in the backend with MYSQL as the database 
 ![MYSQL & NodeJS](https://th.bing.com/th/id/OIP.gvRuNUjGJshAk3GsA6tTAQHaEK?rs=1&pid=ImgDetMain)
-
-Mocha is used in combination with Chai for testing the app.
-
-![Mocha & Chai](https://miro.medium.com/max/499/0*WpXBkrfgR2g9dw2T.png)
 
 
 ## Installation
