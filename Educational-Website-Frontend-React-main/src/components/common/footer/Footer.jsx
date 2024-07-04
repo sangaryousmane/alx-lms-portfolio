@@ -20,7 +20,7 @@ const Footer = () => {
       <footer>
         <div className="container padding">
           <div className="box logo">
-            <h1>Eduscope</h1>
+            <h1>IKRANDAY</h1>
             <span>OnlineE Education & Learning Platform</span>
             <p>
               A small river named Duden flows by their place and supplies it
@@ -77,7 +77,7 @@ const Footer = () => {
             <ul>
               <li>
                 <i className="fa fa-map"></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                430000 Honghan, Wuhan, Hubei, China
               </li>
               <li>
                 <i className="fa fa-phone-alt"></i>
@@ -85,14 +85,14 @@ const Footer = () => {
               </li>
               <li>
                 <i className="fa fa-paper-plane"></i>
-                info@yourdomain.com
+                sangary7683@yahoo.com
               </li>
             </ul>
           </div>
         </div>
       </footer>
       <div className="legal">
-        <p>Thirosh Madhusha Copyright ©2022 All rights reserved.</p>
+        <p>Ousmane Sangary Copyright ©2022 All rights reserved.</p>
       </div>
     </>
   );
