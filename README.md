@@ -2,7 +2,7 @@
 
 IKRANDAY is a madinka word meaning "make sure and learn it". The name was devise with the aim to provide people a convenient way of learning that is completely different from the traditional way. With a click of a link, users can land on the home page, search their desire courses, purchase and then start learning from the comfort of their home
 
-<img src="public/snapshot-home-pg.jpg" alt="Image Description" style="width: 100%;">
+<img src="public/snapshot-home-pg.jpg" alt="Image Description" style="width: 100%; height: 70%">
 
 # Project Objective
 
