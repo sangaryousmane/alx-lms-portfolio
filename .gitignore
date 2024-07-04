@@ -19,7 +19,7 @@
 # misc
 .DS_Store
 *.pem
-/Educational-Website-Frontend-React-main
+/C:\Users\sanga\Documents\lms-portfolio-project\lms-alx-portfolio\Educational-Website-Frontend-React-main
 # debug
 npm-debug.log*
 yarn-debug.log*
