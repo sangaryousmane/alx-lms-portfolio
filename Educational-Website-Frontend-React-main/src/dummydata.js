@@ -288,22 +288,22 @@ export const team = [
 export const price = [
   {
     name: "BASIC PLAN",
-    price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "$250",
+    desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     name: "BEGINNER PLAN",
-    price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "$500",
+    desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
   {
     name: "PREMIUM PLAN",
-    price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "$1000",
+    desc: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     name: "ULTIMATE PLAN",
-    price: "149K",
+    price: "$1500",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
 ]
@@ -339,17 +339,17 @@ export const blog = [
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    title: "Enrol and Learn real world skills to advance your career",
+    desc: "A gentle introduction to the world of programming and the Python language.",
+    cover: "../images/blog/",
   },
   {
     id: 2,
     type: "admin",
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build your leadership skill",
+    desc: "Learn Leadership Skills in a team",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -357,8 +357,8 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Backend with Java - Spring Boot",
+    desc: "Learn Spring Boot, JPA, MONGODB etc",
     cover: "../images/blog/b3.webp",
   },
   {
