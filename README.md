@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# IKRANDAY LEARNING MANAGEMENT SYSTEM
+IKRANDAY is a project born at ALX for making online education accessible to everyone
 
-## Getting Started
+## Installation
 
-First, run the development server:
+Use the package manager [npm](https://pip.pypa.io/en/stable/) to install the packages and then start the development.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install 
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```node
+git clone [repository](https://github.com/sangaryousmane/alx-lms-portfolio.git)
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contributing
 
-## Learn More
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-To learn more about Next.js, take a look at the following resources:
+Please make sure to update tests as appropriate.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[MIT](https://choosealicense.com/licenses/mit/)
