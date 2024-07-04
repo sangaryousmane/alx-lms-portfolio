@@ -10,6 +10,7 @@
 
 # production
 /build
+/Educational-Website-Frontend-React-main
 
 # misc
 .DS_Store
