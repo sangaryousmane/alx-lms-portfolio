@@ -1,6 +1,6 @@
 # IKRANDAY: A LEARNING MANAGEMENT SYSTEM FOR EVERYONE
 
-IKRANDAY is a project born at ALX for making online education accessible to everyone
+IKRANDAY is a madinka word meaning "make sure and learn it". The name was devise with the aim to provide people a convenient way of learning that is completely different from the traditional way. With a click of a link, users can land on the home page, search their desire courses, purchase and then start learning from the comfort of their home
 
 
 # Project Objective
