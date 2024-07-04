@@ -3,32 +3,32 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries.",
+    desc: "Buy online courses with certificates and learn from the best teachers.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
     title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries.",
+    desc: "Earn a certificate recognize certificate equivalent college degree.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
     title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries.",
+    desc: "Learn from the best teachers and get personal guidance.",
   },
 ]
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-    data: "3,000",
-    title: "SUCCESS STORIES",
+    data: "1,000",
+    title: "TOTAL GRADUATES",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "120",
+    title: "EXPERT TUTORS",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
@@ -37,15 +37,15 @@ export const awrapper = [
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "887",
+    title: "AVAILABLE COURSES",
   },
 ]
 export const coursesCard = [
   {
     id: 1,
     cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
+    coursesName: "Introduction to Datascience",
     courTeacher: [
       {
         dcover: "./images/back.webp",
